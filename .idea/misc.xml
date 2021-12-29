@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ISEC/20-21/AMov/ReversiGame/app/src/main/res/layout/activity_jogo3.xml" value="0.3359375" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/ReversiGame/app/src/main/res/layout/activity_jogos1_2.xml" value="0.3359375" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/ReversiGame/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/ReversiGame/app/src/main/res/layout/activity_modo_jogo.xml" value="0.3359375" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/ReversiGame/app/src/main/res/layout/activity_perfil.xml" value="0.3359375" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/arrows.xml" value="0.3963541666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/ic_camera_background.xml" value="0.43385416666666665" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/ic_camera_foreground.xml" value="0.43385416666666665" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3963541666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3963541666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/modo1.xml" value="0.3963541666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/modo2.xml" value="0.3963541666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/modo3.xml" value="0.3963541666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/drawable/person.xml" value="0.3963541666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout-land/activity_camera.xml" value="0.3371278458844133" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout-land/activity_main.xml" value="0.3476357267950963" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout-land/activity_perfil.xml" value="0.3371278458844133" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout-land/activity_top_score.xml" value="0.45796847635726795" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/activity_camera.xml" value="0.37604166666666666" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/activity_camera2.xml" value="0.38125" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/activity_jogos1_2.xml" value="0.5447916666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/activity_main.xml" value="0.41354166666666664" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/activity_modo_jogo.xml" value="0.5447916666666667" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/activity_perfil.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/activity_top_score.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/layout/camera.xml" value="0.37604166666666666" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.43385416666666665" />
+        <entry key="..\:/Users/ISEC/20-21/AMov/TP/ReversiGame/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round2.xml" value="0.43385416666666665" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/drawable/black_circle.xml" value="0.5" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/drawable/button.xml" value="0.3828125" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/drawable/gradient_backgroud.xml" value="0.3828125" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/drawable/ic_baseline_compare_arrows_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/drawable/white_circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/layout/activity_jogo.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/layout/activity_jogo1_2.xml" value="0.22" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/layout/activity_jogo3.xml" value="0.35597826086956524" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/layout/activity_jogos1_2.xml" value="0.33" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGame/app/src/main/res/layout/activity_perfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout-land/activity_about.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout-land/activity_jogo3.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout-land/activity_jogos1_2.xml" value="0.25" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout-land/activity_modo_jogo.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout/activity_about.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout/activity_jogo3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout/activity_jogos1_2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout/activity_modo_jogo.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/filip/Desktop/ISEC/2122/AMOV/TrabalhoPratico/ReversiGameGit/app/src/main/res/layout/activity_perfil.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

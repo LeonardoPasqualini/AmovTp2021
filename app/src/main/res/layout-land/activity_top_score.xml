@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_backgroud"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".TopScoreActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/top_score"
+        android:textStyle="bold"
+        android:fontFamily="@font/dancingbold"
+        android:textSize="60sp"
+        android:textColor="@color/blueTheme"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="username"
+        android:textSize="20sp"
+        android:textColor="@color/blueTheme"
+        />
+    
+    <TextView
+        android:id="@+id/tvTopScore"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars = "vertical"
+        >
+    </TextView>
+</LinearLayout>

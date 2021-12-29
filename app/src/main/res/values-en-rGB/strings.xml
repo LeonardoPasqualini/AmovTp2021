@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="score">Score:</string>
+    <string name="bomba">Bomb</string>
+    <string name="troca_pecas">Switch Token</string>
+    <string name="modo1">Mode 1</string>
+    <string name="modo2">Mode 2</string>
+    <string name="modo3">Mode 3</string>
+    <string name="novoJogo">New Game</string>
+    <string name="perfil">Profile</string>
+    <string name="creditos">About</string>
+    <string name="sair">Exit</string>
+    <string name="entrar_com_google">Google login</string>
+    <string name="entrar_com_e_mail">E-mail login</string>
+    <string name="tirar_foto">Take picture</string>
+    <string name="sair_da_conta">Logout</string>
+</resources>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/gradient_backgroud"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginVertical="25dp"
+        android:layout_gravity="top">
+
+        <TextView
+            android:layout_width="274dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/dancingbold"
+            android:gravity="center"
+            android:text="@string/gameName"
+            android:textColor="@color/blueTheme"
+            android:textSize="60sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="156dp"
+            android:layout_marginVertical="15dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:adjustViewBounds="true"
+                android:maxWidth="120dp"
+                android:maxHeight="120dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/profile" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:text="@string/perfil"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="294dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginVertical="20dp"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/white"
+            android:fontFamily="sans-serif"
+            android:onClick="novoJogo"
+            android:text="@string/novoJogo"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/white"
+            android:fontFamily="sans-serif"
+            android:onClick="perfil"
+            android:text="@string/perfil"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/white"
+            android:fontFamily="sans-serif"
+            android:text="@string/top_score"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/white"
+            android:fontFamily="sans-serif"
+            android:text="@string/creditos"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:onClick="creditos"/>
+
+        <Button
+            android:layout_width="144dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/white"
+            android:fontFamily="sans-serif"
+            android:text="@string/sair"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

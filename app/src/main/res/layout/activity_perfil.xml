@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/gradient_backgroud"
+    tools:context=".PerfilActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:text="@string/perfil"
+            android:textStyle="bold"
+            android:fontFamily="@font/dancingbold"
+            android:textSize="60sp"
+            android:textColor="@color/blueTheme"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxWidth="120dp"
+                android:maxHeight="120dp"
+                android:layout_gravity="center"
+                android:src="@drawable/profile"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:id="@+id/perfilImage"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/perfil"
+                android:fontFamily="sans-serif"
+                android:textSize="18sp"
+                android:textColor="@color/cardview_dark_background"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:gravity="center"
+                android:text="username"
+                android:id="@+id/tvUsername"
+                android:textSize="20sp"
+                android:textColor="@color/blueTheme"
+                />
+        </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/llRegister"
+                android:layout_marginHorizontal="10dp"
+                android:visibility="visible">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="E-mail:"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/edEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:inputType="textEmailAddress"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Password:"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/edPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:inputType="textPassword" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginHorizontal="10dp">
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:backgroundTint="@color/white"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/entrar_com_e_mail"
+                    android:onClick="onAutenticarEmail"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"/>
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:backgroundTint="@color/white"
+                    android:fontFamily="sans-serif"
+                    android:text="registar"
+                    android:layout_marginLeft="10dp"
+                    android:onClick="onRegistarEmail"
+                    android:textColor="@color/black"
+                    android:textSize="15sp"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginVertical="50dp">
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/white"
+                android:fontFamily="sans-serif"
+                android:onClick="onAutenticarGmail"
+                android:text="@string/entrar_com_google"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:backgroundTint="@color/white"
+                android:fontFamily="sans-serif"
+                android:onClick="takePic"
+                android:text="@string/tirar_foto"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/white"
+            android:fontFamily="sans-serif"
+            android:onClick="onSignOut"
+            android:text="@string/sair_da_conta"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

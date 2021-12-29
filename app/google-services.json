@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666603800415",
+    "project_id": "reversiamovtp-flm",
+    "storage_bucket": "reversiamovtp-flm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666603800415:android:47360e00befc38e2c558ea",
+        "android_client_info": {
+          "package_name": "pt.isec.pipa.reversigame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666603800415-uhqm57mkd4qm6k61bpsdieao8fn5pg24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.isec.pipa.reversigame",
+            "certificate_hash": "cf2a81192b1b555412fa96b82e18da69b3111bfd"
+          }
+        },
+        {
+          "client_id": "666603800415-tq2v09m1aslacn3q38s4kc5vjf4tr1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzRfZkGB39D_tYDrgLHajOuVVHXw0FUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666603800415-tq2v09m1aslacn3q38s4kc5vjf4tr1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

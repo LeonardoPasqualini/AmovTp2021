@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">ReversiGame</string>
+    <string name="score">Pontuação:</string>
+    <string name="bomba">Bomba</string>
+    <string name="troca_pecas">Troca Peças</string>
+    <string name="modo1">Modo 1</string>
+    <string name="modo2">Modo 2</string>
+    <string name="modo3">Modo 3</string>
+    <string name="gameName" translatable="false">Reversi</string>
+    <string name="novoJogo">Novo Jogo</string>
+    <string name="perfil">Perfil</string>
+    <string name="creditos">Créditos</string>
+    <string name="sair">Sair</string>
+    <string name="top_score" translatable="false">Top Score</string>
+    <string name="entrar_com_google">Entrar com Google</string>
+    <string name="entrar_com_e_mail">Entrar com E-mail</string>
+    <string name="tirar_foto">Tirar foto</string>
+    <string name="sair_da_conta">Sair da conta</string>
+</resources>
