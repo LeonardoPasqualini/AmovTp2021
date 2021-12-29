@@ -240,7 +240,7 @@ class PerfilActivity : AppCompatActivity() {
 
             val resultIntent = result.data
             val imagePath = resultIntent?.getStringExtra("path")
-//            imagePathURI = Uri.parse(imagePath)
+            imagePathURI = Uri.parse(imagePath)
 
             Log.i("Perfil", "resultIntent photoFile: ${imagePath2}")
 //            val uri = resultIntent?.data?.apply {
@@ -257,8 +257,8 @@ class PerfilActivity : AppCompatActivity() {
                 val bitmap = BitmapFactory.decodeFile(imagePath)
                 Log.i("Perfil", "bitmap: ${bitmap} ${imagePath}")
 //                b.perfilImage.setImageURI(null);
-//                b.perfilImage.setImageURI(imagePathURI);
-                b.perfilImage?.setImageBitmap(bitmap)
+                b.perfilImage.setImageURI(imagePathURI);
+//                b.perfilImage?.setImageBitmap(bitmap)
             }
         }
     }
